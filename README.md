@@ -53,6 +53,6 @@ The hardware stack consists of:
 - £8 Arduino Mega 2560
 - [£20 Custom Circuit Board + Components](https://github.com/AutomaticCheeseMaker/CheeseMaker-Circuit)
 - £5 Solid State Relay 220V AC Output, 5V DC Input
-- [IEC C15 Orange 3m Cable](https://www.ebay.co.uk/itm/Power-Extension-Cable-IEC-C14-Male-Plug-IEC-C15-Female-Socket-3m-3metre-ORANGE/202315430599)
+- [£6 IEC C15 Orange 3m Cable](https://www.ebay.co.uk/itm/Power-Extension-Cable-IEC-C14-Male-Plug-IEC-C15-Female-Socket-3m-3metre-ORANGE/202315430599)
 
-You will also need to print [HardwareCase](https://github.com/AutomaticCheeseMaker/CheeseMaker-3DParts)
+You will also need to print [HardwareCase](https://github.com/AutomaticCheeseMaker/CheeseMaker-3DParts) and find a raspberry PI or PC to run OctoPrint
